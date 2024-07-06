@@ -1,8 +1,8 @@
-
+![Murder Mystery Discord Bot Banner](https://github.com/DaPandamonium/murderer_bot/blob/main/murderer_mysterybot.png?raw=true)
 
 # Murder Mystery Discord Bot
 
-A Discord bot for playing a murder mystery game. Players investigate scenes, gather clues, and deduce the murderer, weapon, and crime scene. This project was created as part of the Codedex Python Final Checkpoint.
+### A Discord bot for playing a murder mystery game. Players investigate scenes, gather clues, and deduce the murderer, weapon, and crime scene. This project was created as part of the [Codedex Python Final Checkpoint.](https://www.codedex.io/@DaPanda)
 
 ## Features
 
